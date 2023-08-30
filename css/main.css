@@ -6,7 +6,7 @@
 body {
     height: 100vh;
     width: 100vw;
-    background: radial-gradient(#1f1f1f 20%, #db8a8a);
+    background: radial-gradient(#1f1f1f 10%, #63d4be 65%,#db8a8a);
 }
 
 .header{
