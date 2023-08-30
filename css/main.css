@@ -8,3 +8,9 @@ body {
     width: 100vw;
     background: radial-gradient(#1f1f1f 20%, #db8a8a);
 }
+
+.header{
+    width: 100vw;
+    height: 70px;
+    background-color: #db8a8a;
+}
