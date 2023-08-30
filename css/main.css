@@ -12,5 +12,5 @@ body {
 .header{
     width: 100vw;
     height: 70px;
-    background-color: #db8a8a;
+    background: linear-gradient(from bottom, #63d4be 40%, #db8a8a);
 }
