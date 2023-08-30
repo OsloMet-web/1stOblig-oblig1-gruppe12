@@ -12,7 +12,7 @@ body {
 .header{
     width: 100vw;
     height: 70px;
-    background: linear-gradient(#63d4be 40%, #db8a8a);
+    background: linear-gradient(180deg, #63d4be 40%, #db8a8a);
 }
 
 .seatsyncbilde1{
