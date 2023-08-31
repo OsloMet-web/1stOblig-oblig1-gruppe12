@@ -1,4 +1,4 @@
-*{
+* { /** Have you played with '*' vs 'body'? The '*' will affect _every_ element in the HTML, and may play havoc when you use nested elements :-) **/
     margin: 0;
     padding: 0;
 }
