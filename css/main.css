@@ -1,16 +1,9 @@
-* { /** Have you played with '*' vs 'body'? The '*' will affect _every_ element in the HTML, and may play havoc when you use nested elements :-) **/
-    margin: 0;
-    padding: 0;
-}
 
 body {
-    height: 100vh;
-    width: 100vw;
     background: radial-gradient(#00f2ff 10%, #04b8c1 65%,#00ffd9);
 }
 
 .header{
-    width: 100vw;
     height: 70px;
     background: linear-gradient(45deg, #00f2ff 40%, #00ffd9);
 }
